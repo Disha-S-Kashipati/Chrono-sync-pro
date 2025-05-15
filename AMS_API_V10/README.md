@@ -1,6 +1,6 @@
 # Attendance Management System API (AMS_API_V10)
 
-
+This project provides the backend API for an Attendance Management System (AMS). It is built using Java, Spring Boot, and Maven.
 
 ## Features
 
